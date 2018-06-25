@@ -1,0 +1,1 @@
+Upon opening the in-browser IDE (technically Sandbox), the file directory was empty. Was able to create a few js files to start the lab, however without tests.js, was not able to complete the lab.
